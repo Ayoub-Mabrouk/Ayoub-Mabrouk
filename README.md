@@ -2,9 +2,6 @@
 <h3 align="center">A passionate Back-End developer from Morocco</h3>
 
 <p align="left"> <img src="https://gpvc.arturio.dev/ayoub-mabrouk" alt="ayoub-mabrouk" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayoub-mabrouk" alt="ayoub-mabrouk" /></a> </p>
-
-- 🔭 I’m currently working on **something cool**
 
 - 🌱 I’m currently learning **How to make the world Better with code**
 
