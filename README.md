@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayoub Mabrouk</h1>
-<h3 align="center">A passionate Back-End developer from Morocco</h3>
+<h3 align="center">A passionate FullStack Developer from Morocco</h3>
 
 <p align="left"> <img src="https://gpvc.arturio.dev/ayoub-mabrouk" alt="ayoub-mabrouk" /> </p>
 
