@@ -6,13 +6,6 @@ I specialize in JavaScript, PHP, back-end architecture, and database development
 
 Open source contributor. Mentor. Writer.
 
-## Stack
-
-**Languages:** JavaScript, PHP, TypeScript, HTML, CSS  
-**Backend:** Node.js, Laravel, Express  
-**Frontend:** React, Vue  
-**Database:** MySQL, PostgreSQL, MongoDB  
-**Tools:** Git, Docker, Linux
 
 ## Contact
 
